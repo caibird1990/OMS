@@ -9,4 +9,5 @@
 借鉴CDMB，重构一套自动化运维平台（主要涉及到资产统计、批量安装等自动化操作，理想情况下结合salt进行批量部署，包括版本的发布、回滚等）
 ![image](https://github.com/caibird1990/OMS/raw/master/demo/rebuild.jpg)
 ![image](https://github.com/caibird1990/OMS/raw/master/demo/OMS_index.jpg)
+![image](https://raw.githubusercontent.com/caibird1990/OMS/master/demo/OMS_index.jpg)
 还在努力的编译中...(将尽快实现重构的功能，并将代码尽快共享，个人写的会比较low，但会不断的改善）
